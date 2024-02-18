@@ -14,6 +14,5 @@ Here are some projects I've been working on:
 
 ## My contact
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/oscar-wieland-a7b90b224/)
-- Kaggle:
-- Datacamp:
+- Kaggle:  [My Kaggle Profile](https://www.kaggle.com/oscarwieland)
 
