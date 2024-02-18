@@ -10,8 +10,10 @@ Here are some projects I've been working on:
 - [Casino Shiny app](https://github.com/SimoesBarbosaRicardo/Roulette-Lab)
 
 #### Python projects
-- [Project 1](link-to-project-1): Brief description of Project 1.
+- [Stackoverflow predictions](https://github.com/oscarwieland/Machine-Learning-project)
 
 ## My contact
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/oscar-wieland-a7b90b224/)
+- Kaggle:
+- Datacamp:
 
