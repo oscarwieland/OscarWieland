@@ -1,7 +1,7 @@
-# Welcome to My GitHub Homepage!
+# Welcome !
 
 ## About Me
-I'm [Your Name], a passionate software developer based in [Your Location]. I love building cool projects and learning new technologies.
+I'm Oscar Wieland, a young student of the university of Geneva. I am actually doing a master's degree in Business Analytics. 
 
 ## Projects
 Here are some projects I've been working on:
@@ -10,8 +10,6 @@ Here are some projects I've been working on:
 - [Project 2](link-to-project-2): Brief description of Project 2.
 - [Project 3](link-to-project-3): Brief description of Project 3.
 
-## Contact Me
-- Email: your.email@example.com
-- Twitter: [@yourTwitterHandle](https://twitter.com/yourTwitterHandle)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile)
+## My contact
+- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/oscar-wieland-a7b90b224)
 
