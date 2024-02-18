@@ -11,5 +11,5 @@ Here are some projects I've been working on:
 - [Project 3](link-to-project-3): Brief description of Project 3.
 
 ## My contact
-- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/oscar-wieland-a7b90b224)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/oscar-wieland-a7b90b224/)
 
