@@ -6,10 +6,10 @@ I'm Oscar Wieland, a young student of the university of Geneva. I am actually do
 ## Projects
 Here are some projects I've been working on:
 
-### R
+#### R projects
 - [Project 1](link-to-project-1): Brief description of Project 1.
 
-### Python
+#### Python projects
 - [Project 1](link-to-project-1): Brief description of Project 1.
 
 ## My contact
