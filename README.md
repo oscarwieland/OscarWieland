@@ -3,6 +3,13 @@
 ## About Me
 I'm Oscar Wieland, a young student of the university of Geneva. I am actually doing a master's degree in Business Analytics. 
 
+## Skills
+- R
+- Python
+- SQL
+- Learning power BI
+
+  
 ## Projects
 Here are some projects I've been working on:
 
