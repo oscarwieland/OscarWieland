@@ -7,7 +7,7 @@ I'm Oscar Wieland, a young student of the university of Geneva. I am actually do
 - R
 - Python
 - SQL
-- Learning power BI
+- Actually learning: power BI
 
   
 ## Projects
