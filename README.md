@@ -15,6 +15,7 @@ Here are some projects I've been working on:
 
 #### R projects
 - [Casino Shiny app](https://github.com/SimoesBarbosaRicardo/Roulette-Lab)
+  This project entails the development of an application using R and Shiny, providing users with the opportunity to engage in roulette game and experiment with various strategic approaches.
 
 #### Python projects
 - [Stackoverflow predictions](https://github.com/oscarwieland/Machine-Learning-project)
