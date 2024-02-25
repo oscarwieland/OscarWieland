@@ -22,6 +22,9 @@ Here are some projects I've been working on:
 
 #### Power BI projects
 - [Survey analysis](https://github.com/oscarwieland/survey-analysis)
+- [Cars Sales analysis](https://github.com/oscarwieland/Cars_sales)
+
+
 
 ## My contact
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/oscar-wieland-a7b90b224/)
