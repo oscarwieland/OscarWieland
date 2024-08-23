@@ -39,7 +39,7 @@ Following this, I evaluated both local and global fit to ensure the robustness o
 In this little project, i had the opportunity to edit an excel table directly with power BI. Subsequently, I created graphical representations in Power BI to better understand this Data professional survey and be able to draw conclusions.
 
 - [Cars Sales analysis](https://github.com/oscarwieland/Cars_sales)
-- 
+
 The objective of this project is to meticulously monitor and analyze the sales performance of a car sales company. To achieve this goal, I have developed a dynamic and interactive dashboard using Power BI. This dashboard incorporates key performance indicators (KPIs) derived from sales data, including Year-to-Date (YTD) Total Sales, Year-over-Year (YOY) Growth in Total Sales, YTD Average Price, YTD Cars Sold, and various others.
 
 These insights will empower stakeholders to make informed decisions, closely track progress, and pinpoint emerging trends and opportunities for growth.
