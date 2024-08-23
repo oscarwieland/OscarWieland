@@ -34,6 +34,8 @@ Following this, I evaluated both local and global fit to ensure the robustness o
 #### Python projects
 - [Stackoverflow predictions](https://github.com/oscarwieland/Machine-Learning-project)
 
+***Skills used***: Natural Lenguage Processing (NLP), Machine learning models (Support Vector Machine, Logistic Regression, Random Forest)
+
 #### Power BI projects
 - [Survey analysis](https://github.com/oscarwieland/survey-analysis)
 
