@@ -7,7 +7,7 @@ I'm Oscar Wieland, a young student of the university of Geneva. I am actually do
 - R
 - Python
 - SQL
--  power BI
+- power BI
 
   
 ## Projects
@@ -15,6 +15,9 @@ Here are some projects I've been working on:
 
 #### R projects
 - [Casino Shiny app](https://github.com/SimoesBarbosaRicardo/Roulette-Lab)
+- [Lafayette Case](https://github.com/oscarwieland/Lafayette-Case)
+- [Quality Evaluation Case](https://github.com/oscarwieland/Quality-Evaluation-case)
+- [Heliotronics Case](https://github.com/oscarwieland/Heliotronics-Case)
 
 
 #### Python projects
