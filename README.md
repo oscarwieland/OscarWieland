@@ -8,6 +8,7 @@ I'm Oscar Wieland, a young student of the university of Geneva. I am actually do
 - Python
 - SQL
 - power BI
+- Excel solver
 - Factor analysis
 
   
