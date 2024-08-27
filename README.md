@@ -28,6 +28,15 @@ Following this, I evaluated both local and global fit to ensure the robustness o
 ***Skills used***: Exploratory factor analysis, Confirmatory factor analysis, SEM
 
 - [Quality Evaluation Case](https://github.com/oscarwieland/Quality-Evaluation-case)
+
+This project presents a detailed case study on factor analysis. The goal of this analysis is to uncover patterns that are not immediately visible, allowing for a deeper understanding of the data's structure.
+
+In this case study, we apply factor analysis to a dataset to reveal the hidden dimensions that influence observed variables. The project walks through the process of determining the number of factors that best represent the data, extracting these factors, and interpreting the results in a meaningful way.
+
+The study also compares different methods of factor extraction and rotation, evaluating their effectiveness in simplifying and clarifying the relationships between variables. Additionally, it explores the impact of allowing correlations between factors, which is often crucial when dealing with complex, real-world data.
+
+***Skills used***:Exploratory factor analysis, Confirmatory factor analysis, SEM, Factor Rotation Techniques (Varimax, Promax), Principal Component Analysis (PCA
+
 - [Heliotronics Case](https://github.com/oscarwieland/Heliotronics-Case)
 
 
