@@ -1,7 +1,7 @@
 # Welcome !
 
 ## About Me
-I'm Oscar Wieland, a young student of the university of Geneva. I am actually doing a master's degree in Business Analytics. 
+I'm Oscar Wieland, a young student of the university of Geneva actually doing a master's degree in Business Analytics. 
 
 ## Skills
 - R
