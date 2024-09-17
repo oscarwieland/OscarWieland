@@ -15,7 +15,7 @@ I'm Oscar Wieland, a young student of the university of Geneva actually doing a 
 ## Projects
 Here are some projects I've been working on:
 
-#### R projects
+### R projects
 - [Casino Shiny app](https://github.com/SimoesBarbosaRicardo/Roulette-Lab)
 - [Lafayette Case](https://github.com/oscarwieland/Lafayette-Case)
 
@@ -42,14 +42,14 @@ The study also compares different methods of factor extraction and rotation, eva
 
 This project focuses on a detailed analysis and strategic decision-making process for Heliotronics, a company navigating complex business challenges. The case study involves an in-depth examination of various business scenarios, leveraging data analysis, financial modeling, and strategic management principles to evaluate potential outcomes and recommend the best course of action. By applying techniques such as regression analysis and scenario modeling, the project aims to forecast the financial and operational impacts of different strategic options. 
 
-#### Python projects
+### Python projects
 - [Stackoverflow predictions](https://github.com/oscarwieland/Machine-Learning-project)
 
 The objective of this project is to develop an accurate machine learning model to automate the tagging of user-generated posts on Stack Overflow. These tags improve the platform's usability by helping users filter and find content relevant to their expertise. To achieve this, we began with exploratory data analysis (EDA) to understand the patterns in the dataset, which includes posts and their corresponding tags. We then tested multiple machine learning models, including Support Vector Machine (SVM), Logistic Regression, and Random Forest, selecting the best based on training time, testing time, and accuracy. Feature engineering was performed to process the text, employing techniques like tokenization, vectorization, and TF-IDF (Term Frequency-Inverse Document Frequency) to transform raw text into a machine-readable format. Finally, we evaluated our models using accuracy as the key metric, measuring the proportion of correctly predicted tags for each post.
 
 ***Skills used***: Natural Lenguage Processing (NLP), Machine learning models (Support Vector Machine, Logistic Regression, Random Forest)
 
-#### Power BI projects
+### Power BI projects
 - [Survey analysis](https://github.com/oscarwieland/survey-analysis)
 
 In this little project, i had the opportunity to edit an excel table directly with power BI. Subsequently, I created graphical representations in Power BI to better understand this Data professional survey and be able to draw conclusions.
