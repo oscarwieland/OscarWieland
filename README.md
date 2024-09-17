@@ -15,7 +15,9 @@ I'm Oscar Wieland, a young student of the university of Geneva actually doing a 
 ## Projects
 Here are some projects I've been working on:
 
-### <u>R projects</u>
+### R projects
+---
+
 - [Casino Shiny app](https://github.com/SimoesBarbosaRicardo/Roulette-Lab)
 - [Lafayette Case](https://github.com/oscarwieland/Lafayette-Case)
 
