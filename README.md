@@ -18,6 +18,9 @@ Here are some projects I've been working on:
 ### R projects
 
 - [Casino Shiny app](https://github.com/SimoesBarbosaRicardo/Roulette-Lab)
+
+We created an interactive web application using R and Shiny that simulates a roulette game, allowing users to experiment with various betting strategies. By integrating advanced statistical models, the app realistically demonstrates the outcomes of different strategies. Designed as both an engaging tool for entertainment and a learning platform, it also serves to educate users on the inherent risks of gambling.
+
 - [Lafayette Case](https://github.com/oscarwieland/Lafayette-Case)
 
 
