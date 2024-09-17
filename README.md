@@ -45,6 +45,8 @@ This project focuses on a detailed analysis and strategic decision-making proces
 #### Python projects
 - [Stackoverflow predictions](https://github.com/oscarwieland/Machine-Learning-project)
 
+The objective of this project is to develop an accurate machine learning model to automate the tagging of user-generated posts on Stack Overflow. These tags improve the platform's usability by helping users filter and find content relevant to their expertise. To achieve this, we began with exploratory data analysis (EDA) to understand the patterns in the dataset, which includes posts and their corresponding tags. We then tested multiple machine learning models, including Support Vector Machine (SVM), Logistic Regression, and Random Forest, selecting the best based on training time, testing time, and accuracy. Feature engineering was performed to process the text, employing techniques like tokenization, vectorization, and TF-IDF (Term Frequency-Inverse Document Frequency) to transform raw text into a machine-readable format. Finally, we evaluated our models using accuracy as the key metric, measuring the proportion of correctly predicted tags for each post.
+
 ***Skills used***: Natural Lenguage Processing (NLP), Machine learning models (Support Vector Machine, Logistic Regression, Random Forest)
 
 #### Power BI projects
