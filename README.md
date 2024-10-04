@@ -68,6 +68,8 @@ These insights will empower stakeholders to make informed decisions, closely tra
 ### Excel projects
 - [Prescriptive analytics](https://github.com/oscarwieland/prescriptive-analytics)
 
+I am leading a project to optimize the production of football equipment for a company. The goal is to maximize profit, minimize shortages, or strike a balance by efficiently managing resources, production methods, and worker assignments. This requires navigating constraints related to demand, supply, and workforce to ensure smooth and effective production.
+
 ***Skills used***: Excel solver
 
 
