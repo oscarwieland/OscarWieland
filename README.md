@@ -65,6 +65,12 @@ The objective of this project is to meticulously monitor and analyze the sales p
 
 These insights will empower stakeholders to make informed decisions, closely track progress, and pinpoint emerging trends and opportunities for growth.
 
+### Excel projects
+- [Prescriptive analytics]
+
+***Skills used***: Excel solver
+
+
 ## My contact
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/oscar-wieland-a7b90b224/)
 - Kaggle:  [My Kaggle Profile](https://www.kaggle.com/oscarwieland)
