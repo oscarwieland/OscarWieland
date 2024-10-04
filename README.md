@@ -66,7 +66,7 @@ The objective of this project is to meticulously monitor and analyze the sales p
 These insights will empower stakeholders to make informed decisions, closely track progress, and pinpoint emerging trends and opportunities for growth.
 
 ### Excel projects
-- [Prescriptive analytics]
+- [Prescriptive analytics](https://github.com/oscarwieland/prescriptive-analytics)
 
 ***Skills used***: Excel solver
 
