@@ -40,7 +40,7 @@ In this case study, we apply factor analysis to a dataset to reveal the hidden d
 
 The study also compares different methods of factor extraction and rotation, evaluating their effectiveness in simplifying and clarifying the relationships between variables. Additionally, it explores the impact of allowing correlations between factors, which is often crucial when dealing with complex, real-world data.
 
-***Skills used***:Exploratory factor analysis, Confirmatory factor analysis, SEM, Factor Rotation Techniques (Varimax, Promax), Principal Component Analysis (PCA
+***Skills used***:Exploratory factor analysis, Confirmatory factor analysis, SEM, Factor Rotation Techniques (Varimax, Promax), Principal Component Analysis (PCA)
 
 - [Heliotronics Case](https://github.com/oscarwieland/Heliotronics-Case)
 
