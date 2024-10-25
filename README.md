@@ -72,6 +72,12 @@ I am leading a project to optimize the production of football equipment for a co
 
 ***Skills used***: Excel solver
 
+- [Sales anaysis dashboard](https://github.com/oscarwieland/Coffee-Sales-Dashboard)
+
+I created an interactive Excel dashboard to visualize coffee sales, utilizing pivot tables to uncover insights about the top customers, leading countries, and various coffee types. This intuitive tool not only simplifies the analysis of past performance but also enhances the ability to compare product success effectively.
+
+***Skills used***: Pivot Table, Charts, XLOOKUP
+
 
 ## My contact
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/oscar-wieland-a7b90b224/)
