@@ -81,6 +81,7 @@ I created an interactive Excel dashboard to visualize coffee sales, utilizing pi
 
 ### Tableau projects
 
+- [Sales and Customers Dashboard](https://github.com/oscarwieland/Lafayette-Case)
 
 ## My contact
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/oscar-wieland-a7b90b224/)
