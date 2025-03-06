@@ -81,7 +81,9 @@ I created an interactive Excel dashboard to visualize coffee sales, utilizing pi
 
 ### Tableau projects
 
-- [Sales and Customers Dashboard](https://github.com/oscarwieland/Lafayette-Case)
+- [Sales and Customers Dashboard](https://github.com/oscarwieland/Sales-and-Customers-Dashboard)
+
+This Tableau project features two interactive dashboards: Customer Dashboard and Sales Dashboard, with an easy switch between them. The Sales Dashboard highlights key KPIs and visualizes performance trends to quickly identify potential issues. The Customer Dashboard provides insights into customer data and order metrics. A dynamic filter section allows users to refine data, ensuring a flexible and interactive analysis experience.
 
 ## My contact
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/oscar-wieland-a7b90b224/)
