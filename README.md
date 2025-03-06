@@ -79,6 +79,8 @@ I created an interactive Excel dashboard to visualize coffee sales, utilizing pi
 
 ***Skills used***: Pivot Table, Charts, XLOOKUP
 
+### Tableau projects
+
 
 ## My contact
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/oscar-wieland-a7b90b224/)
